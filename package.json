@@ -1,0 +1,14 @@
+{
+  "name": "open-tech-camp",
+  "version": "1.0.0",
+  "description": "Deliver personalized educational content, and leave no one behind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "education"
+  ],
+  "author": "m-a-mohsen",
+  "license": "ISC"
+}
